@@ -1,4 +1,4 @@
-#My simple SPA website
+My simple SPA website
 
 ```yaml
 Vue 2
