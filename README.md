@@ -1,11 +1,16 @@
 My simple SPA website
 
 ```yaml
-Vue 2 frontend
+DID:
+Vue.js 2 frontend
+Firebase hosting
 
-Firebase hosting+db
 
 TODO:
 Sprint (boot) backend
+Maven
+Firebase RTDB
+jQuery.js
+Reveal.js
 
 ```
